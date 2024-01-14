@@ -1,0 +1,16 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 1.2rem;
+    background-color: rgb(31, 66, 97);
+}
+
+h1 {
+    font-size: 1.7rem;
+    color: black;
+}
+
+p {}
